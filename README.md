@@ -113,3 +113,9 @@ During the completion of this room, I engaged in practical exercises that demons
 ⚠️ Disclaimer
 
 To adhere to TryHackMe’s Terms of Service and protect lab integrity, this repository contains conceptual frameworks, structural notes, and methodological insights. No direct flags or answers are published within.
+
+---
+My LinkedIn link: [https://www.linkedin.com/feed/update/urn:li:activity:7466030701671264256/]
+
+
+#Cybersecurity #ThreatIntelligence #CyberThreatIntelligence #CTI #IncidentResponse #ThreatHunting #SOC #DetectionEngineering #MitreAttack #TryHackMe #BlueTeam #InfoSec
